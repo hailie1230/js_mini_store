@@ -7,7 +7,7 @@ function loadItems(){
 
 //Update the list with the given items
 function dispalyItems(items){
-  const container = document.querySelector('.items');
+  const container = document.querySelector('.store.items');
   container.innerHTML = items.map(item => createHTMLstring(item)).join('');
 }
 
@@ -37,8 +37,8 @@ function onButtonClick (event, items){
   dispalyItems(filtered);
 }
 function setEventListener(items){
-  const logo = document.querySelector('.logo');
-  const buttons = document.querySelector('.buttons');
+  const logo = document.querySelector('.store_logo');
+  const buttons = document.querySelector('.store.buttons');
   logo.addEventListener('click', () => dispalyItems(items));
   buttons.addEventListener('click', event => onButtonClick(event, items));
 }
