@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "type": "fruit",
+      "name": "apple",
+      "color": "red",
+      "quantity": "1",
+      "price": "2$",
+      "image": "../img/apple.png"
+    },
+    {
+      "type": "fruit",
+      "name" : "apples",
+      "color": "red",
+      "quantity": "3",
+      "price": "5$",
+      "image": "../img/apple_b.png"
+    },
+    {
+      "type": "fruit",
+      "name": "greenapple",
+      "color": "green",
+      "quantity": "1",
+      "price": "5$",
+      "image": "../img/greenapple.png"
+    },
+    {
+      "type": "fruit",
+      "name": "pineapple",
+      "color": "yellow",
+      "quantity": "1",
+      "price": "20$",
+      "image": "../img/pineapple.png"
+    },
+    {
+      "type": "fruit",
+      "name" : "pineapples",
+      "color": "yellow",
+      "quantity": "3",
+      "price": "55$",
+      "image": "../img/pineapple_b.png"
+    },
+    {
+      "type": "fruit",
+      "name": "orange",
+      "color": "orange",
+      "quantity": "1",
+      "price": "5$",
+      "image": "../img/orange.png"
+    },
+    {
+      "type": "fruit",
+      "name" : "orange",
+      "color": "orange",
+      "quantity": "3",
+      "price": "12$",
+      "image": "../img/orange_b.png"
+    },
+    {
+      "type": "fruit",
+      "name": "watermelon",
+      "color": "green",
+      "quantity": "1",
+      "price": "13$",
+      "image": "../img/watermelon.png"
+    },
+
+    {
+      "type": "vegetables",
+      "name": "broccoli",
+      "color": "green",
+      "quantity": "1",
+      "price": "3$",
+      "image": "../img/broccoli.png"
+    },
+    {
+      "type": "vegetables",
+      "name": "broccoli",
+      "color": "green",
+      "quantity": "3",
+      "price": "8$",
+      "image": "../img/broccoli_b.png"
+    },
+
+    {
+      "type": "vegetables",
+      "name": "carrot",
+      "color": "orange",
+      "quantity": "1",
+      "price": "2$",
+      "image": "../img/carrot.png"
+    },
+    {
+      "type": "vegetables",
+      "name": "carrot",
+      "color": "orange",
+      "quantity": "3",
+      "price": "5$",
+      "image": "../img/carrot_b.png"
+    },
+    {
+      "type": "vegetables",
+      "name": "tomato",
+      "color": "red",
+      "quantity": "1",
+      "price": "5$",
+      "image": "../img/tomato.png"
+    },
+    {
+      "type": "vegetables",
+      "name": "tomato",
+      "color": "red",
+      "quantity": "3",
+      "price": "13$",
+      "image": "../img/tomato_b.png"
+    }
+
+    
+    
+    
+  ]
+}

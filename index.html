@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>mini store</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="src/main.js" defer></script>
+  </head>
+  <body>
+    <!-- logo -->
+    <h1>
+      <img src="img/shops.png" alt="logo" class="logo">
+      fruit & vegetables shop
+    </h1>
+    <!-- buttons -->
+    <section class="buttons">
+      <button class="btn"><img class="imgBtn" src="img/fruit2.png" alt="fruit" data-key="type" data-value="fruit"></button>
+      <button class="btn"><img class="imgBtn" src="img/vegetables.png" alt="vegetables" data-key="type" data-value="vegetables"></button>
+      <button class="btn colorBtn color red" data-key="color" data-value="red">Red</button>
+      <button class="btn colorBtn color orange" data-key="color" data-value="orange">Orange</button>
+      <button class="btn colorBtn color yellow" data-key="color" data-value="yellow">Yellow</button>
+      <button class="btn colorBtn color green" data-key="color" data-value="green">Green</button>
+    </section>
+    <!-- items -->
+    <ul class="items">
+      <li class="item">
+        <img src="img/apple.png" alt="apple" class="item__thumbnail">
+        <span class="item__description">1ea, 2$</span>
+      </li>
+    </ul>
+  </body>
+</html>
