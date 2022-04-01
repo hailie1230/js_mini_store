@@ -126,12 +126,17 @@ body {
 }
 
 @media screen and (max-width: 800px) {
+  .storeTit{
+    margin-bottom: 20px;
+  }
   .disBl {
     display: block;
     width: 100%;
+    margin-bottom: 5px;
   }
   .store.buttons {
     flex-direction: column;
+    text-align: center;
   }
   .store.items {
     width: 95%;
