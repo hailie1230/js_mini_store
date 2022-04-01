@@ -16,7 +16,7 @@ function createHTMLstring(item){
   return `
   <li class="item">
     <img src="${item.image}" alt="${item.name}" class="item__thumbnail">
-    <span class="item__description">${item.quantity}ea, ${item.price}</span>
+    <span class="item__description">${item.name} - ${item.quantity}ea, ${item.price}</span>
   </li>
   `;
 }
