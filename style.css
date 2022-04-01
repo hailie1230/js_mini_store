@@ -142,4 +142,7 @@ body {
   .store.items {
     width: 95%;
   }
+  .store .colorBtn {
+    padding: 5px 8px;
+  }
 }
