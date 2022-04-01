@@ -9,7 +9,8 @@
   --color-green: #66bb6a;
   --color-red: #f44336;
   --color-light-yellow: #fff3e0;
-  --color-pink: #fd7f84;
+  --color-pink: #ffcdd2;
+  --color-light-pink: #ffebee;
   --color-light-grey: #dfdfdf;
 
   /* size */
@@ -31,7 +32,7 @@
 
 body {
   height: 100vh;
-  background-color: var(--color-light-yellow);
+  background-color: var(--color-light-pink);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -101,7 +102,7 @@ body {
   list-style: none;
   padding-left: 0;
   overflow-y: scroll;
-  border: 5px solid #ffe0b2;
+  border: 5px solid var(--color-pink);
   padding: var(--base-space);
 }
 .store .item {
