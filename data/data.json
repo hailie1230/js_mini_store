@@ -6,7 +6,7 @@
       "color": "red",
       "quantity": "1",
       "price": "2$",
-      "image": "../img/apple.png"
+      "image": "img/apple.png"
     },
     {
       "type": "fruit",
@@ -14,7 +14,7 @@
       "color": "red",
       "quantity": "3",
       "price": "5$",
-      "image": "../img/apple_b.png"
+      "image": "img/apple_b.png"
     },
     {
       "type": "fruit",
@@ -22,7 +22,7 @@
       "color": "green",
       "quantity": "1",
       "price": "5$",
-      "image": "../img/greenapple.png"
+      "image": "img/greenapple.png"
     },
     {
       "type": "fruit",
@@ -30,7 +30,7 @@
       "color": "yellow",
       "quantity": "1",
       "price": "20$",
-      "image": "../img/pineapple.png"
+      "image": "img/pineapple.png"
     },
     {
       "type": "fruit",
@@ -38,7 +38,7 @@
       "color": "yellow",
       "quantity": "3",
       "price": "55$",
-      "image": "../img/pineapple_b.png"
+      "image": "img/pineapple_b.png"
     },
     {
       "type": "fruit",
@@ -46,7 +46,7 @@
       "color": "orange",
       "quantity": "1",
       "price": "5$",
-      "image": "../img/orange.png"
+      "image": "img/orange.png"
     },
     {
       "type": "fruit",
@@ -54,7 +54,7 @@
       "color": "orange",
       "quantity": "3",
       "price": "12$",
-      "image": "../img/orange_b.png"
+      "image": "img/orange_b.png"
     },
     {
       "type": "fruit",
@@ -62,7 +62,7 @@
       "color": "green",
       "quantity": "1",
       "price": "13$",
-      "image": "../img/watermelon.png"
+      "image": "img/watermelon.png"
     },
 
     {
@@ -71,7 +71,7 @@
       "color": "green",
       "quantity": "1",
       "price": "3$",
-      "image": "../img/broccoli.png"
+      "image": "img/broccoli.png"
     },
     {
       "type": "vegetables",
@@ -79,7 +79,7 @@
       "color": "green",
       "quantity": "3",
       "price": "8$",
-      "image": "../img/broccoli_b.png"
+      "image": "img/broccoli_b.png"
     },
 
     {
@@ -88,7 +88,7 @@
       "color": "orange",
       "quantity": "1",
       "price": "2$",
-      "image": "../img/carrot.png"
+      "image": "img/carrot.png"
     },
     {
       "type": "vegetables",
@@ -96,7 +96,7 @@
       "color": "orange",
       "quantity": "3",
       "price": "5$",
-      "image": "../img/carrot_b.png"
+      "image": "img/carrot_b.png"
     },
     {
       "type": "vegetables",
@@ -104,7 +104,7 @@
       "color": "red",
       "quantity": "1",
       "price": "5$",
-      "image": "../img/tomato.png"
+      "image": "img/tomato.png"
     },
     {
       "type": "vegetables",
@@ -112,7 +112,7 @@
       "color": "red",
       "quantity": "3",
       "price": "13$",
-      "image": "../img/tomato_b.png"
+      "image": "img/tomato_b.png"
     }
 
     
