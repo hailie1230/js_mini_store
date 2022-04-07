@@ -145,4 +145,7 @@ body {
   .store .colorBtn {
     padding: 5px 8px;
   }
+  .store .colorBtn.green {
+    margin-right: 0;
+  }
 }
